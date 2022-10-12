@@ -1,0 +1,11 @@
+[
+{
+ "frame_id":1, 
+ "filename":"/home/data/horses.jpg", 
+ "objects": [ 
+  {"class_id":17, "name":"horse", "relative_coordinates":{"center_x":0.664082, "center_y":0.547404, "width":0.210601, "height":0.263478}, "confidence":0.996124}, 
+  {"class_id":17, "name":"horse", "relative_coordinates":{"center_x":0.205757, "center_y":0.585543, "width":0.403703, "height":0.437874}, "confidence":0.981999}, 
+  {"class_id":17, "name":"horse", "relative_coordinates":{"center_x":0.432443, "center_y":0.547858, "width":0.222950, "height":0.324239}, "confidence":0.907160}
+ ] 
+}
+]

@@ -1,0 +1,10 @@
+[
+{
+ "frame_id":1, 
+ "filename":"/home/data/giraffe.jpg", 
+ "objects": [ 
+  {"class_id":23, "name":"giraffe", "relative_coordinates":{"center_x":0.603031, "center_y":0.459670, "width":0.543835, "height":0.811563}, "confidence":0.996413}, 
+  {"class_id":22, "name":"zebra", "relative_coordinates":{"center_x":0.673086, "center_y":0.650586, "width":0.359016, "height":0.493771}, "confidence":0.987294}
+ ] 
+}
+]

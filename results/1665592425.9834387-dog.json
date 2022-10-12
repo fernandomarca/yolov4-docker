@@ -1,0 +1,11 @@
+[
+{
+ "frame_id":1, 
+ "filename":"/home/data/dog.jpg", 
+ "objects": [ 
+  {"class_id":16, "name":"dog", "relative_coordinates":{"center_x":0.287643, "center_y":0.665292, "width":0.239766, "height":0.549019}, "confidence":0.979146}, 
+  {"class_id":7, "name":"truck", "relative_coordinates":{"center_x":0.747740, "center_y":0.214015, "width":0.287359, "height":0.161784}, "confidence":0.922794}, 
+  {"class_id":1, "name":"bicycle", "relative_coordinates":{"center_x":0.447302, "center_y":0.480771, "width":0.596511, "height":0.518868}, "confidence":0.923119}
+ ] 
+}
+]
